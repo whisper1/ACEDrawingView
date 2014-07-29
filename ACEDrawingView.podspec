@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/acerbetti/ACEDrawingView'
   s.author       = { 'Stefano Acerbetti' => 'acerbetti@gmail.com' }
   s.source       = { :git => 'https://github.com/acerbetti/ACEDrawingView.git', :tag => 'v1.3.1' }
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '6.0'
   s.source_files = 'ACEDrawingView/*.{h,m}'
   s.requires_arc = true
 end
